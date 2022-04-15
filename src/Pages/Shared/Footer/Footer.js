@@ -5,7 +5,7 @@ const Footer = () => {
         <footer>
             <p>
                 <small>
-                    Copyright &copy;  new Date()
+                    Copyright &copy; 2022
                 </small>
             </p>
         </footer>
